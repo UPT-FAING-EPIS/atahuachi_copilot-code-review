@@ -15,3 +15,4 @@ Remember, it's self-paced so feel free to take a break! ☕️
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
  
+<img width="934" height="827" alt="image" src="https://github.com/user-attachments/assets/da574995-86cd-496c-9784-56f4e4a1d4d8" />
